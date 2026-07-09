@@ -1,2 +1,5 @@
 # chongwudulizhan
-Static GitHub Pages site for Royal smart pet products.
+
+Static GitHub Pages deployment for the Royal smart pet products website prototype.
+
+Live site: https://yichitorishen-ops.github.io/chongwudulizhan/
